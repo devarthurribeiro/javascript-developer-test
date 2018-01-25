@@ -1,3 +1,16 @@
+# Docs
+Instalar dependências:
+```
+yarn
+```
+Rodar:
+```
+yarn dev
+
+Construir:
+```
+yarn build
+
 # Sobre a empresa
 
 Somos uma startup americana com desenvolvedores web e sócios brasileiros, onde nosso grande foco é continuar o desenvolvimento de uma ideia disruptiva do mercado de nóticias.
