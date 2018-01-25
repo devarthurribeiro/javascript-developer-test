@@ -6,10 +6,11 @@ yarn
 Rodar:
 ```
 yarn dev
-
+```
 Construir:
 ```
 yarn build
+```
 
 # Sobre a empresa
 
